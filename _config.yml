@@ -24,7 +24,7 @@ navbar-links:
     - Mathematics: "/resources/mathematics"
     - Physics: "/resources/physics"
     - Python: "/resources/python"
-  About me / Contact: "/aboutme"
+  About me / Contacts: "/aboutme"
 
 ################
 # --- Logo --- #
