@@ -20,7 +20,10 @@ author: Pcodenn
 ###############################################
 
 navbar-links:
-  Resources: "/resources"
+  Resources:
+    - Mathematics: "/mathematics"
+    - Physics: "/physics"
+    - Python: "/python"
   About me / Contact: "/aboutme"
 
 ################
