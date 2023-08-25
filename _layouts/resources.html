@@ -7,8 +7,23 @@ layout: default
 <div class="row g-5 mb-5">
   <div>
     <h3 class="fw-bold border-bottom pb-3 mb-5">Resources</h3>
-    {% for document in site.data.resources.resources %}
-      <p><a href="{{ site.github.url }}/resources/{{ document.url}}">{{ document.name }}</a></p>
-    {% endfor %}
+    <div class="row g-5 mb-5">
+      <h4 class="border-bottom">Mathematics</h4>
+        {% for document in site.data.resources.mathematics %}
+        <p><a href="{{ site.github.url }}/resources/mathematics/{{ document.url}}">{{ document.name }}</a></p>
+        {% endfor %}
+    </div>
+    <div class="row g-5 mb-5">
+      <h4 class="border-bottom">Physics</h4>
+        {% for document in site.data.resources.physics %}
+        <p><a href="{{ site.github.url }}/resources/physics/{{ document.url}}">{{ document.name }}</a></p>
+        {% endfor %}
+    </div>
+    <div class="row g-5 mb-5">
+      <h4 class="border-bottom">Python</h4>
+        {% for document in site.data.resources.python %}
+        <p><a href="{{ site.github.url }}/resources/python/{{ document.url}}">{{ document.name }}</a></p>
+        {% endfor %}
+    </div>
   </div>
 </div>

@@ -1,2 +1,8 @@
-resources:
-- {name: 'Linear Algebra', url: linear-algebra}
+mathematics:
+  - {name: 'Linear Algebra | 선형대수학', url: linear-algebra}
+
+physics:
+  - {name: 'Principles of Physics | 일반물리학', url: principle-physics}
+
+python:
+  - {name: 'Python Basics | 파이썬 기초', url: python-basics}
