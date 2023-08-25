@@ -21,9 +21,9 @@ author: Pcodenn
 
 navbar-links:
   Resources:
-    - Mathematics: "/mathematics"
-    - Physics: "/physics"
-    - Python: "/python"
+    - Mathematics: "/resources/mathematics"
+    - Physics: "/resources/physics"
+    - Python: "/resources/python"
   About me / Contact: "/aboutme"
 
 ################
