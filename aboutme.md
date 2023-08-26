@@ -5,7 +5,7 @@ title: About me / Contacts
 
 ### Hyunwoo RYU
 
-Student | South Korea
+Student living in South Korea
 
 GSHS 40
 
