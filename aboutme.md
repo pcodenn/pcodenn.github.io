@@ -5,10 +5,8 @@ title: About me / Contacts
 
 ### PCODENN
 
-Name: Hyunwoo RYU
-
-Student living in South Korea
+Hyunwoo RYU / Student living in South Korea
 
 GSHS 40
 
-For contacts, you can contact me via email: pcodenn@gmail.com
+You can contact me via email: pcodenn@gmail.com
