@@ -5,7 +5,7 @@ title: Mathematics
 
 {: .box-note}
 **Contents:** 
-<br/>1. Linear Algebra
+<br/>1. Calculus I
 <br/>2. Differential Equations
 
 ## Calculus I
