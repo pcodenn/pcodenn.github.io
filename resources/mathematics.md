@@ -8,16 +8,18 @@ title: Mathematics
 <br/>1. Linear Algebra
 <br/>2. Differential Equations
 
-## Linear Algebra
+## Calculus I
 
 {: .box-warning}
 **Status:** Work in progress
 
-Linear Algebra: A Modern Introduction by David Poole
+Thomas' Calculus (14th) by George B. Thomas, Jr.
+
+* [Chapter 2: Limits and Continuity](/resources/mathematics/Calculus_I/CALC1-2.pdf)
 
 ## Differential Equations
 
 {: .box-warning}
 **Status:** Work in progress
 
-A First Course in Differential Equations with Applications by Dennis G. Zill
+A First Course in Differential Equations (11th) with Applications by Dennis G. Zill
