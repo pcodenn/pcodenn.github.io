@@ -23,3 +23,5 @@ Thomas' Calculus (14th) by George B. Thomas, Jr.
 **Status:** Work in progress
 
 A First Course in Differential Equations (11th) with Applications by Dennis G. Zill
+
+* [Chapter 1: Differential Equations (Korean)](/resources/mathematics/DE/DE-1.pdf)
