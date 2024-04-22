@@ -19,6 +19,7 @@ Thomas' Calculus (14th) by George B. Thomas, Jr.
 * [Chapter 3: Derivatives](/resources/mathematics/Calculus_I/CALC1-3.pdf)
 * [Chapter 4: Applications of Derivatives](/resources/mathematics/Calculus_I/CALC1-4.pdf)
 * [Chapter 5: Integrals](/resources/mathematics/Calculus_I/CALC1-5.pdf)
+* [Chapter 6: Applications of Definite Integrals](/resources/mathematics/Calculus_I/CALC1-6.pdf)
 
 ## Differential Equations
 
