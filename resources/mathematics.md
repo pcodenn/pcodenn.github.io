@@ -22,6 +22,7 @@ Thomas' Calculus (14th) by George B. Thomas, Jr.
 * [Chapter 6: Applications of Definite Integrals](/resources/mathematics/Calculus_I/CALC1-6.pdf)
 * [Chapter 7: Transcendental Functions](/resources/mathematics/Calculus_I/CALC1-7.pdf)
 * [Chapter 8: Techniques of Integration](/resources/mathematics/Calculus_I/CALC1-8.pdf)
+* [Chapter 9: Infinite Sequences and Series](/resources/mathematics/Calculus_I/CALC1-9.pdf)
 
 ## Differential Equations
 
