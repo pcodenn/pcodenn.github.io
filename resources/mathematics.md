@@ -10,9 +10,6 @@ title: Mathematics
 
 ## Calculus I
 
-{: .box-warning}
-**Status:** Work in progress
-
 Thomas' Calculus (14th) by George B. Thomas, Jr.
 
 * [Chapter 2: Limits and Continuity](/resources/mathematics/Calculus_I/CALC1-2.pdf)
